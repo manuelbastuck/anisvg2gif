@@ -1,0 +1,7 @@
+numpy
+opencv-python
+mss
+pillow
+imageio
+pywebview
+pywin32
