@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="test.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient881">
+      <stop
+         style="stop-color:#c3261a;stop-opacity:1"
+         offset="0"
+         id="stop877" />
+      <stop
+         style="stop-color:#7d261a;stop-opacity:1"
+         offset="1"
+         id="stop879" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient881"
+       id="linearGradient885"
+       gradientUnits="userSpaceOnUse"
+       x1="11.865505"
+       y1="7.3124623"
+       x2="14.900867"
+       y2="16.418549"
+       gradientTransform="translate(0.63722976,0.98215755)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+   <style>
+      @keyframes fade {
+         0% { transform: scale(1.0) }
+         100% { transform: scale(2.0) rotate(360deg) }
+      }
+      #rect835 { animation: fade 1s ease-in-out infinite alternate; transform-origin: center; animation-fill-mode: forwards}
+      <!-- #c2 { animation: fade 3.6s -0.3s infinite}
+      #c3 { animation: fade 3.6s -0.6s infinite} -->
+   </style>
+
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0b0e1d;stroke:none;stroke-width:1"
+       id="rect833"
+       width="26.458334"
+       height="26.458334"
+       x="0"
+       y="-1.110223e-16" />
+    <rect
+       style="mix-blend-mode:normal;fill:url(#linearGradient885);stroke:none;stroke-width:1"
+       id="rect835"
+       width="7.9375"
+       height="7.9375"
+       x="9.260417"
+       y="9.260417"
+       rx="1.3229166"
+       ry="1.3229166" />
+  </g>
+</svg>
